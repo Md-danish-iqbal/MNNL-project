@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: serif;
+    
+}
+body{
+    background-image: url(ocean_2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logo{
+    border: solid 2px white;
+    border-radius: 20px;;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    color: white;
+    width: 40px;
+}
+
+#nav{
+      border-bottom: solid 2px white;
+    margin: auto;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    width: 700px;
+}
+#nav li{
+    display: inline;
+    padding:0 60px;
+    text-align: center;
+    width: 300px;
+}
+#hero{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    margin: 100px;
+}
+#button{
+    border: solid 1px black;
+    border-bottom: solid 5px black;
+    border-left: solid 5px black;
+    background-color: yellow;
+    color: black;
+    margin: 20px auto;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+    width: 140px;
+}
+footer{
+    text-align: center;
+    color: white;
+}
